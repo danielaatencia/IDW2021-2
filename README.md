@@ -1,3 +1,4 @@
+![Cards Image Mask](https://user-images.githubusercontent.com/54209459/129116708-4041bdd7-0eb3-419c-9f8e-d7d8686b2e05.png)
 
 ![_119619266_gettyimages-1278800490](https://user-images.githubusercontent.com/20816074/129116317-88d7f18e-f216-4583-8db1-929fa10a53b7.jpg)
 
