@@ -1,7 +1,7 @@
 
 ![_119619266_gettyimages-1278800490](https://user-images.githubusercontent.com/20816074/129116317-88d7f18e-f216-4583-8db1-929fa10a53b7.jpg)
 
-# Tema: Desinformación frente a la vacunación contra el covid-19
+## Tema: Desinformación frente a la vacunación contra el covid-19
 
 ## Introducción:
 
@@ -18,7 +18,7 @@ Ubicación en el mapa de los sitios de vacunación disponibles a nivel local.
 Sección de preguntas frecuentes frente a la vacuna. 
 Infografía de los diferentes tipos de vacunas y su funcionamiento. 
 
-## Propuestas de nombres: 
+### Propuestas de nombres: 
 Queslavacuna.com
 vacavacunada.com
 Informateya.com
@@ -58,3 +58,5 @@ https://www.who.int/es/news-room/feature-stories/detail/the-race-for-a-covid-19-
 
 
 https://www.bbc.com/mundo/noticias-57976128
+
+https://www.colmedica.com/revistavivirbien/edicion118/fake-news.html
