@@ -1,1 +1,60 @@
 
+![_119619266_gettyimages-1278800490](https://user-images.githubusercontent.com/20816074/129116317-88d7f18e-f216-4583-8db1-929fa10a53b7.jpg)
+
+## Tema: Desinformación frente a la vacunación contra el covid-19
+
+## Introducción:
+
+La vacunación es una forma sencilla, inocua y eficaz de protegernos contra enfermedades dañinas antes de entrar en contacto con ellas. Las vacunas activan las defensas naturales del organismo para que aprendan a resistir a infecciones específicas, y fortalecen el sistema inmunitario. (Organización Mundial de la Salud). 
+Con la llegada del coronavirus se activaron protocolos de bioseguridad a nivel mundial para evitar su propagación. A pesar de los esfuerzos el virus ha logrado extenderse de forma masiva. Es por esto que la vacunación es una estrategia efectiva para reducir la mortalidad de la población y evitar el colapso de los servicios sanitarios. Sin embargo se ha dificultado alcanzar la llamada inmunidad de rebaño, pues gran parte de la población se niega a recibir la vacuna ya sea por temor, ideologías o simple desinformación.
+
+## Planteamiento del problema:
+
+El proyecto consiste en una página web cuyo principal fin es la divulgación de información sobre el covid-19 y la vacunación de fuentes confiables.
+
+Algunas de las principales funciones son:  
+Tutorial para agendar la vacunación. 
+Ubicación en el mapa de los sitios de vacunación disponibles a nivel local. 
+Sección de preguntas frecuentes frente a la vacuna. 
+Infografía de los diferentes tipos de vacunas y su funcionamiento. 
+
+Propuestas de nombres: 
+Queslavacuna.com
+vacavacunada.com
+Informateya.com
+Mivacunaestuvacuna.com
+desmientelavacuna.com
+lalolavacunada.com 
+
+# Objetivos:  
+
+### General:
+Divulgar información de fuentes confiables sobre la vacunación contra el covid-19.
+
+### Específicos:
+Desmentir mitos sobre la vacunación. 
+Informar con fuentes confiables a las personas para que así eviten caer en mitos.
+
+Estado del arte 
+
+Las noticias falsas en Internet (fake news) han estado presentes desde hace mucho tiempo, pero con la alerta mundial provocada por la pandemia del coronavirus estos contenidos
+se han incrementado. Han logrado más difusión e impacto. La necesidad de estar al tanto de la situación, el miedo por el virus y personas que dedican tiempo a estar en redes 
+sociales, han sido los componentes perfectos para que la desinformación se expanda más rápido que el mismo coronavirus. Este fenómeno ha sido denominado por la Organización
+Mundial de la Salud (OMS) como infodemia y catalogado como una amenaza para la salud pública.
+La desinformación es una de las amenazas más graves para la salud pública y es más dañina cuando alimenta la indecisión sobre las vacunas(Organización Panamericana de Salud).
+En este momento es un problema que amenaza los esfuerzos globales para poner fin a la pandemia de COVID-19 y alcanzar la inmunidad de rebaño, prevenir casos graves, hospitalizaciones, muertes y el surgimiento de nuevas variantes.
+
+Primero durante las distintas fases de los ensayos clínicos y luego con los datos relevados tras su distribución al público en general, la información revela que las vacunas contra el coronavirus no son peligrosas, sino todo lo contrario: son seguras.
+
+Un artículo publicado en febrero por la revista Nature señala que “las vacunas contra el coronavirus son seguras y efectivas”, y que a medida que llegan a más personas, “los investigadores están aprendiendo sobre el alcance y la naturaleza de los efectos secundarios”, que por supuesto que pueden existir, pero sin llegar a los niveles de gravedad planteados por grupos de disidentes de la pandemia o de movimientos antivacunas.
+
+
+
+
+
+Algunas fuentes 
+
+https://www.who.int/es/news-room/feature-stories/detail/the-race-for-a-covid-19-vaccine-explained
+
+
+https://www.bbc.com/mundo/noticias-57976128
