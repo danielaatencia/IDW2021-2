@@ -1,7 +1,7 @@
 
 ![_119619266_gettyimages-1278800490](https://user-images.githubusercontent.com/20816074/129116317-88d7f18e-f216-4583-8db1-929fa10a53b7.jpg)
 
-## Tema: Desinformación frente a la vacunación contra el covid-19
+# Tema: Desinformación frente a la vacunación contra el covid-19
 
 ## Introducción:
 
@@ -18,7 +18,7 @@ Ubicación en el mapa de los sitios de vacunación disponibles a nivel local.
 Sección de preguntas frecuentes frente a la vacuna. 
 Infografía de los diferentes tipos de vacunas y su funcionamiento. 
 
-Propuestas de nombres: 
+## Propuestas de nombres: 
 Queslavacuna.com
 vacavacunada.com
 Informateya.com
@@ -35,7 +35,7 @@ Divulgar información de fuentes confiables sobre la vacunación contra el covid
 Desmentir mitos sobre la vacunación. 
 Informar con fuentes confiables a las personas para que así eviten caer en mitos.
 
-Estado del arte 
+## Estado del arte 
 
 Las noticias falsas en Internet (fake news) han estado presentes desde hace mucho tiempo, pero con la alerta mundial provocada por la pandemia del coronavirus estos contenidos
 se han incrementado. Han logrado más difusión e impacto. La necesidad de estar al tanto de la situación, el miedo por el virus y personas que dedican tiempo a estar en redes 
