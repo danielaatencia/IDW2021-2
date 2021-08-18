@@ -48,3 +48,13 @@ Informar con ayuda de elementos visuales a las personas para que así eviten cre
 
 https://www.figma.com/file/Lg7STr2uFDpkO142TLmcMq/Landing-vacuna?node-id=0%3A1
 
+
+## 10.   Descripción de la aplicación
+ 
+Nuestra plataforma ofrece un amplio catálogo de información almacenada ya sea en la nube o tomada de servicios terceros, donde cuando sea el caso, se citará específicamente su fuente y se implementará su URL.
+Contamos con links de videos tomados de las principales páginas informativas, soportadas por pruebas y fuentes científicas, donde sólo estarían haciendo uso de su base de datos compartiendo sus videos.
+En cuanto a nuestro contenido creado, estaríamos a cargo de mostrar los mapas, infografías, vídeos e imágenes originales, que almacenaremos en una base de datos, o un servicio de nube de lugar público.
+La información y recolección de datos, se haría directamente haciendo enlace con la plataforma mi vacuna ( en caso de que así sea).
+La información y recolección de datos para enviar contenido educativo a las personas interesadas, se usarían para enviarles más información detallada a la página de MiVacuna, donde podrá agendar su cita y/o buscar su sede de vacunación más cercana.
+La plataforma se basaría en recolectar información y contenido externo, para posteriormente plasmar los enlaces en la página, ya que son las fuentes científicas y aprobadas por diferentes sistemas de salud.
+
