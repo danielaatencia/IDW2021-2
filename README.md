@@ -31,3 +31,6 @@ creencias previas (Betsch et al., 2013).  Más allá de esto, las vacunas han de
 Muchas de las teorías conspiratorias sobre la COVID-19 no son nuevas, han sido renovadas de otras ya elaboradas en el pasado. El ataque conspiratorio al 5G ha sido promovido por el movimiento activista anti-5G liderados por los grupos Stop 5G que hay alrededor del mundo. Otras teorías conspiratorias que han sido usadas también en el pasado argumentan que el coronavirus es un producto de la codicia de las grandes empresas farmacéuticas, o que la élite global está intentando controlar el crecimiento de la población. Estas son historias ya contadas por
 los movimientos anti-vacunas en las últimas décadas (Matamoros, D). Los movimientos anti vacunación son asociaciones de personas que se oponen a la vacunación por diferentes motivos. Estos grupos emplean Internet como medio de difusión de sus ideas (López, M).
 
+ 
+## 6.	Objetivo general
+ Divulgar información de fuentes confiables sobre la vacunación contra el covid-19
