@@ -44,3 +44,7 @@ Informar con ayuda de elementos visuales a las personas para que así eviten cre
 ![modelo de negocio](https://user-images.githubusercontent.com/54209459/129982463-f37870c5-f006-41e6-bf1f-c7fe8dd396d4.png)
 
 
+## 9.    Mockups de la aplicación 
+
+https://www.figma.com/file/Lg7STr2uFDpkO142TLmcMq/Landing-vacuna?node-id=0%3A1
+
