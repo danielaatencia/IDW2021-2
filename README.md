@@ -34,3 +34,8 @@ los movimientos anti-vacunas en las últimas décadas (Matamoros, D). Los movimi
  
 ## 6.	Objetivo general
  Divulgar información de fuentes confiables sobre la vacunación contra el covid-19
+ 
+ ## 7. Objetivos específicos
+Desmentir mitos sobre la vacunación. 
+Informar con ayuda de elementos visuales a las personas para que así eviten creer en las fake news masivas.
+
