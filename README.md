@@ -20,3 +20,7 @@ El proyecto consiste en una página web cuyo principal fin es la divulgación de
 - Ubicación en el mapa de los sitios de vacunación disponibles a nivel local. 
 - Sección de preguntas frecuentes frente a la vacuna. 
 - Infografía de los diferentes tipos de vacunas y su funcionamiento. 
+
+## 4.	Justificación
+La necesidad de está página se encuentra en la problemática actual por el surgimiento de nuevas variantes, hospitalizaciones y muertes que se agravan por la falta de motivación de las personas por vacunarse. De esta forma, el virus se propaga a un mayor nivel y cambia, haciendo que en un futuro sea posible que las vacunas no sean eficaces frente a estas nuevas variantes. 
+
