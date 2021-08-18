@@ -39,3 +39,8 @@ los movimientos anti-vacunas en las últimas décadas (Matamoros, D). Los movimi
 Desmentir mitos sobre la vacunación. 
 Informar con ayuda de elementos visuales a las personas para que así eviten creer en las fake news masivas.
 
+## 8. Modelo de negocio 
+
+![modelo de negocio](https://user-images.githubusercontent.com/54209459/129982463-f37870c5-f006-41e6-bf1f-c7fe8dd396d4.png)
+
+
