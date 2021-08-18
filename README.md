@@ -58,3 +58,21 @@ La información y recolección de datos, se haría directamente haciendo enlace 
 La información y recolección de datos para enviar contenido educativo a las personas interesadas, se usarían para enviarles más información detallada a la página de MiVacuna, donde podrá agendar su cita y/o buscar su sede de vacunación más cercana.
 La plataforma se basaría en recolectar información y contenido externo, para posteriormente plasmar los enlaces en la página, ya que son las fuentes científicas y aprobadas por diferentes sistemas de salud.
 
+
+
+## 11.   Bibliografía
+
+
+- BBC News.(2021) Paso a paso: la operación sin precedentes para vacunar contra la covid-19 en tiempo récord bbc.com/mundo/resources/idt-66c2dc60-855d-4307-9174-e21f65e9702d
+- Catalán-Matamoros, D. (2020). La comunicación sobre la pandemia del COVID-19 en la era digital: manipulación informativa, fake news y redes sociales. Revista Española de Comunicación en Salud, 5-8.
+- David Robson (2021) Covid-19: cómo persuadir a quienes dudan de las vacunas. BBC News. https://www.bbc.com/mundo/noticias-57976128
+ - Zarante, I. 2021. ¿Por qué confiar en las vacunas contra la covid-19? Hoy en la Javeriana. Edición N°: 1366 https://www.javeriana.edu.co/hoy-en-la-javeriana/por-que-confiar-en-las-vacunas-contra-la-covid-19/
+- Lemm, N. M., ... & Pollock, K. M. (2020). Vaccines for COVID‐19. Clinical & Experimental Immunology, 202(2), 162-192.
+- Lopez, M. Los movimientos antivacunacion y su presencia en internet. Ene. vol.9 no.3 Santa Cruz de La Palma dic. 2015
+- Organización Mundial de la Salud (2021). Los distintos tipos de vacunas que existen. https://www.who.int/es/news-room/feature-stories/detail/the-race-for-a-covid-19-vaccine-explained
+- Tregoning, J. S., Brown, E. S., Cheeseman, H. M., Flight, K. E., Higham, S. L., 
+- Trilla, A. et al. (2020). ¿Qué es el Coronavirus SARS-CoV-2? Clinic Barcelona. https://www.clinicbarcelona.org/asistencia/enfermedades/covid-19/definicion
+- Verger, P., & Dubé, E. (2020). Restoring confidence in vaccines in the COVID-19 era.
+
+
+
