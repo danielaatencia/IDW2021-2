@@ -8,3 +8,15 @@ Con la llegada del coronavirus se activaron protocolos de bioseguridad a nivel m
 
 ## 2.	Tema
  Desinformación frente a la vacunación contra el covid-19
+ 
+ ## 3.	Planteamiento del problema
+ 
+![1](https://user-images.githubusercontent.com/54209459/129981766-1d362bae-6b2b-42b4-9700-874ff666dfce.png)
+
+El proyecto consiste en una página web cuyo principal fin es la divulgación de información sobre el covid-19 y la vacunación de fuentes confiables.
+
+- Algunas de las principales funciones son:  
+- Tutorial para agendar la vacunación. 
+- Ubicación en el mapa de los sitios de vacunación disponibles a nivel local. 
+- Sección de preguntas frecuentes frente a la vacuna. 
+- Infografía de los diferentes tipos de vacunas y su funcionamiento. 
